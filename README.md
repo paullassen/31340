@@ -6,7 +6,7 @@ For clone the repo, you have to run :
 
 ```git clone https://github.com/paullassen/31340.git```
 
-# How install Small world ?
+# How install ?
 
 
 run differents makefiles : 
